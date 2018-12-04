@@ -1,1 +1,1 @@
-"# Django_essentials yt" 
+# Django_essentials yt
